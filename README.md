@@ -1,2 +1,2 @@
 # Prueba
-Para compaartir
+Para compartir conn alguien
